@@ -1,30 +1,31 @@
-# Desain Website Showroom Mobil
+# Car Showroom Website Design
 
-Ini adalah desain untuk website showroom mobil yang dibuat menggunakan Figma. Desain ini mencakup berbagai halaman seperti Homepage, Cars, Showroom, About Us, Login, dan Register.
+This is a website design for a car showroom, created using Figma. The design includes several pages such as Homepage, Cars, Showroom, About Us, Login, and Register.
 
-## Daftar Halaman
-1. **Homepage** - Halaman utama website yang menyajikan informasi umum dan tampilan pertama bagi pengunjung.
-2. **Cars** - Halaman yang menampilkan daftar mobil yang tersedia di showroom.
-3. **Showroom** - Halaman yang berisi informasi tentang showroom dan berbagai layanan yang disediakan.
-4. **About Us** - Halaman yang memberikan informasi tentang perusahaan atau tim yang mengelola showroom.
-5. **Login** - Halaman login untuk pengguna yang ingin mengakses akun mereka.
-6. **Register** - Halaman untuk registrasi akun baru bagi pengguna yang belum terdaftar.
+## 📄 Page List
+1. **Homepage** – The main landing page that presents general information and serves as the first impression for visitors.  
+2. **Cars** – A page displaying the list of available cars in the showroom.  
+3. **Showroom** – A page providing information about the showroom and the services offered.  
+4. **About Us** – A page that shares details about the company or team managing the showroom.  
+5. **Login** – A login page for users who want to access their accounts.  
+6. **Register** – A registration page for new users who haven’t signed up yet.
 
-## Fitur
-- Desain UI/UX modern dan responsif
-- Pengalaman pengguna yang ramah dan mudah dinavigasi
-- Konsep halaman untuk showroom mobil lengkap dengan fitur login dan registrasi
+## ✨ Features
+- Modern and responsive UI/UX design  
+- User-friendly and easy-to-navigate experience  
+- Complete page concepts for a car showroom including login and registration features
 
-## Screenshot
-Berikut adalah beberapa screenshot dari desain yang ada di Figma:
+## 🖼️ Screenshots
+Below are some screenshots from the design on Figma:
 
-![Homepage](assets/image1.jpg)
-![Cars Page](assets/image2.jpg)
-![Showroom Page](assets/image3.jpg)
-![About Us Page](assets/image4.jpg)
-![Login and Page](assets/image5.jpg)
+![Homepage](assets/image1.jpg)  
+![Cars Page](assets/image2.jpg)  
+![Showroom Page](assets/image3.jpg)  
+![About Us Page](assets/image4.jpg)  
+![Login Page](assets/image5.jpg)
 
-## Cara Menjalankan
-1. Unduh File "UI Design.fig"
-2. Buka di aplikasi atau website figma
+## ▶️ How to Open the Design
+1. Download the `UI Design.fig` file  
+2. Open it using the [Figma](https://figma.com) app or website
+
 
